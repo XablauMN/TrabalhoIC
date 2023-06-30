@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trampo", "Trampo\Trampo.csproj", "{F775D556-EEE4-4B44-B1C6-C14F7D804694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F775D556-EEE4-4B44-B1C6-C14F7D804694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F775D556-EEE4-4B44-B1C6-C14F7D804694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F775D556-EEE4-4B44-B1C6-C14F7D804694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F775D556-EEE4-4B44-B1C6-C14F7D804694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {189178C9-88A2-4445-BA9B-B0471D18EBC5}
+	EndGlobalSection
+EndGlobal
